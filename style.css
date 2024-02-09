@@ -1,0 +1,17 @@
+aside{
+    width: 40%;
+    padding-left: 0.5rem;
+    margin-left: 0.5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #292929;
+    font-style: italic;
+    color: #292929;
+}
+
+aside > p {
+    margin: 0.5rem;
+}
+
+figure{
+    margin: 0;
+}
