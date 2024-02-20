@@ -1,0 +1,59 @@
+/* *{
+    outline: 1px solid red;
+} */
+
+
+/* Example for Display Block */
+
+/* p,
+ul{
+    border: 2px solid rebeccapurple;
+    padding: .5rem;
+}
+
+.block,
+li{
+    border: 2px solid blue;
+    padding: .5rem;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+
+.block{
+    display: inline;
+} */
+
+/* Example for Display: Inline; */
+
+/* p,
+ul{
+    border: 2px solid purple;
+}
+
+span,
+li{
+    border: 2px solid red;
+}
+
+ul{
+    display: inline-flex;
+    list-style: none;
+    padding: 0;
+}
+
+.inline{
+    display: inline;
+} */
+
+
+.box{
+    width: 350px;
+    height: 150px;
+    margin: 10px;
+    padding: 25px;
+    border: 5px solid black;
+
+}
